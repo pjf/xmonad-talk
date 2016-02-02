@@ -1,0 +1,90 @@
+#!/usr/bin/pinpoint
+
+[font=Sans 200px]
+[white][text-color=black]
+[shading-opacity=0.0]
+[text-align=center]
+--
+The Xmonad
+Tiling Window Manager
+
+Paul '@pjf' Fenwick
+--
+Traditional
+Window Managers...
+-- [images/ubuntu-desktop.png]
+
+--
+Manually
+resize :(
+--
+Wasted
+space :(
+--
+Obscured
+windows :(
+--
+Tiling
+WMs
+-- [images/xmonad-desktop.png]
+
+--
+Automatic
+resizing :)
+--
+No
+dragging :)
+--
+No overlaps :)
+-- [images/smug.jpg]
+
+
+--
+Gimp doesn't
+work :(
+--
+Xmonad
+--
+Written
+in Haskell
+--
+Highly
+configurable
+--
+Live
+demo
+
+# Layouts - Super-Space
+# Change wndw - Super-[jk]
+# Change size - Super[hl]
+# Live reload
+--
+xmonad.hs
+--
+Reload:
+
+Super-Q
+--
+Starting
+configs...
+--
+David
+Brewer
+
+github.com/
+davidbrewer/
+xmonad-ubuntu-conf
+--
+My config
+
+github.com/
+pjf/xmonad-ubuntu-conf
+--
+Thank
+you!
+--
+Questions?
+
+@pjf
+
+patreon.com/_pjf
